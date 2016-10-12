@@ -1,0 +1,88 @@
+body {
+	font-family: 'MedievalSharp', arial;
+}
+
+h1, h2 {
+	color: teal;
+	text-align: center;
+}
+
+header {
+	background-color: yellow;
+	padding: 20px;
+	margin: 20px 0px;
+	border: 5px solid black;
+	border-radius: 5px;
+}
+
+footer {
+	background: lightblue;
+}
+footer p {
+	padding: 10px 0px;
+	text-align: center;
+}
+footer a {
+	color: blue;
+	text-decoration: none;
+	font-weight: bold;
+	font-style: italic;
+}
+
+section {
+	padding: 20px;
+}
+
+section p {
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+section a {
+	color: red;
+	text-decoration: none;
+	border: 3px solid black;
+	padding: 10px;
+	margin: 20px 5px;
+}
+section a:hover {
+	color: black;
+	border: 3px solid red;
+}
+
+img {
+	width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.story-links {
+	padding-top: 40px;
+	padding-bottom: 30px;
+	background-color: magenta;
+}
+
+
+
+
+
+
+
+
+
+
+
